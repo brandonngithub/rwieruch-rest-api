@@ -1,0 +1,15 @@
+{
+  "name": "rwieruch-rest-api",
+  "version": "1.0.0",
+  "description": "https://www.robinwieruch.de/node-express-server-rest-api/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
